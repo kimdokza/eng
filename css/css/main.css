@@ -1,0 +1,81 @@
+
+.sss {
+    font-size : 100px; letter-spacing : 50px; text-align : center; color : rgb(55, 200, 228);
+}
+.box {
+    margin : 20px; 
+    padding : 30px;
+    border : 20px solid rgb(255, 0, 0);
+    border-radius : 50px;
+    font-size: 100px;
+    box-shadow: -10px 10px 10px rgb(44, 162, 201);
+    text-align : center;
+  }
+  .flex-container {
+    display : flex;
+    background-color: brown;
+    
+  }
+  .boxe {
+    width : 150px;
+    height : 100px;
+    background : brown;
+    padding: 10;
+    margin : 1px;
+  }
+  
+  .aaa{
+    font-size : 25px;
+    text-align : center; 
+    color : black;
+  }
+
+
+
+  .contaner{
+    display : flex;
+    background-color: rgb(187, 163, 230);
+  
+  }
+  .contaner1{
+    display : flex;
+    background-color: rgb(255, 255, 255);
+  }
+  .bb{
+    width : 70px;
+    height : 70px;
+    background : rgb(187, 163, 230);
+    padding: 10;
+    margin : 1px;
+  }
+  .bb1{
+    width : 70px;
+    height : 70px;
+    background : rgb(255, 255, 255);
+    padding: 10;
+    margin : 1px;
+  }
+
+.market{
+  display : flex;
+    background-color: rgb(255, 243, 243);
+}
+
+.mart{
+  width : 70px;
+    height : 70px;
+    background : rgb(255, 243, 243);
+    padding: 10;
+    margin : 1px;
+}
+.blank {
+  width : 70px;
+  height : 200px;
+  background : rgb(255, 255, 255);
+  padding: 10;
+  margin : 1px;
+}
+.blank1{
+  display : flex;
+    background-color: rgb(255, 255, 255);
+}
